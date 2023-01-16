@@ -1,0 +1,15 @@
+D:\WPF\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe.config
+D:\WPF\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe
+D:\WPF\ticTacToe\ticTacToe\bin\Debug\ticTacToe.pdb
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csprojAssemblyReference.cache
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\MainWindow.g.cs
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\App.g.cs
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe_MarkupCompile.cache
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe_MarkupCompile.lref
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\MainWindow.baml
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe.g.resources
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe.Properties.Resources.resources
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.GenerateResource.cache
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe.csproj.CoreCompileInputs.cache
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe.exe
+D:\WPF\ticTacToe\ticTacToe\obj\Debug\ticTacToe.pdb
